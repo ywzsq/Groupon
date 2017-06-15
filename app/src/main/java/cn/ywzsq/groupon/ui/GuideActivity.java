@@ -34,7 +34,7 @@ public class GuideActivity extends AppCompatActivity {
         viewPager.setAdapter(adapter);
 
         final float density = getResources().getDisplayMetrics().density;
-        
+
 
 
 
