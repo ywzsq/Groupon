@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/new_comer_guide_fg_4"
+    tools:context="cn.ywzsq.groupon.fragment.FragmentD">
+
+
+    <Button
+        android:id="@+id/button_fragment_Skip"
+        android:text="立即开启"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/bth_selector"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="30sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</FrameLayout>
